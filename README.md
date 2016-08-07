@@ -1,5 +1,5 @@
 Taller Aplicaciones Web
-Luis Torres
+Javier Guillén
 ```html
 
 1.Que es un servidor?
@@ -28,7 +28,7 @@ Es un lenguaje de marcacion que utiliza etiquetas para poder estructurar un docu
 Las etiquetas son fragmentos de textos rodeados por <> que se usan para definir la estructura de un archivo HTML
 
 8.Cuales son las diferencias entre las etiquetas h1-h6?
-Estas etiquetas son utilizadas para los titulos/subtitulos de un texto, 
+Estas etiquetas son utilizadas para los titulos/subtitulos de un texto,
 van decreciendo en tamano a medida que los numeros que acompanhan a la h aumenta.
 
 
@@ -48,7 +48,7 @@ Aqui directamente nos referimos al atributo src="" que en otras palabras es sour
 en el inicio, al iniciar la apertura de la etiqueta html se escribe el siguiente codigo: <html lang = "en">
 14. que es una lista ordenada
 Una lista ordenada o <ol> </ol> es una etiqueta que ordena con numeros  un determinado texto
-rodeado por estas etiquetas 
+rodeado por estas etiquetas
 15. Que es una lista no ordenada?
 Una lista no ordenada o <ul/></ul> es una lista que en vez de utilizar numeros, utiliza viñetas,
 de vuelta se convierte en lista cada texto rodeado con estas etiquetas.
@@ -57,13 +57,13 @@ de vuelta se convierte en lista cada texto rodeado con estas etiquetas.
 Con la etiqueta <p>escriba aqui el parrafo</p>
 
 17. Como se indica la negrita, cursiva, subrayado, tachado, subindice y superinice?
-Para negrita se utiliza <strong>aqui el texto en negrita</strong>, 
-para cursiva se utiliza la etiqueta <em>..</em>, subrayado <u>..</u>, 
-subindice utiliza <sub>..</sub>, tachado utilza <strike>..</strike> 
+Para negrita se utiliza <strong>aqui el texto en negrita</strong>,
+para cursiva se utiliza la etiqueta <em>..</em>, subrayado <u>..</u>,
+subindice utiliza <sub>..</sub>, tachado utilza <strike>..</strike>
 y finalmente superindice utiliza <sup>..</sup>.
 
 18 Que es git?
-Git es un software de control de versiones, en otras palabras se utiliza para programar de manera ordenada, 
+Git es un software de control de versiones, en otras palabras se utiliza para programar de manera ordenada,
 ya sea individualmente o en equipo.
 
 19. Que es github?
